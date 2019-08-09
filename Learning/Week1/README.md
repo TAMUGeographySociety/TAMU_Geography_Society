@@ -1,3 +1,7 @@
-# Extended Learning Program Week 1 Information / Data
+# FME Introduction Course:
 
-## Topic: FME Introduction
+### Program:
+
+### Data:
+
+### What we are doing:

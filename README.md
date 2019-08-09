@@ -7,5 +7,5 @@ Texas A&amp;M Geography Society
 - Room: 8th floor O&M
 
 ## Extended Learning Meeting Information:
-- Week 1: [FME Introduction](../blob/master/Learning/Week1)
+- Week 1: [FME Introduction](master/Learning/Week1)
 - Week 2: 

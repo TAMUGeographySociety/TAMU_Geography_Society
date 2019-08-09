@@ -1,2 +1,2 @@
-# TAMU-_Geography_Society
+# TAMU Geography Society
 Texas A&amp;M Geography Society

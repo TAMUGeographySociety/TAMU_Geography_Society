@@ -27,8 +27,14 @@ Q/A
 4. I have another question!
     * Email us at thetamugeographysoceity@gmail.com
 
-### Data:
+## Data:
 We will be using an CSV file to start us off.
 
-[Click here to download the CSV file](BorestickData.csv)
-### What we are doing:
+[Click here to download the CSV file](github.com/TAMUGeographySociety/TAMU_Geography_Society/blob/master/Learning/Week1/BorestickData.csv)
+
+Hit Ctr+S on the site and save it to your computer, or I will show a way to scrape it directly from the internet.
+
+## What we are doing:
+During this first course I will be teaching the basics of FME and how to use it. I will be using an example of something I did this summer at my time in the oil and gas industry that is simple enough for beginner level understanding of the program. Those that are advanced in FME may still benifit from coming as they will get experience with oil and gas and FME processes.
+
+If you have any questions about content, location, time, or other ... email me at **thetamugeographysociety@gmail.com**

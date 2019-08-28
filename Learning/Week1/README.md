@@ -30,5 +30,5 @@ Q/A
 ### Data:
 We will be using an CSV file to start us off.
 
-[Click here to download the CSV file](Learning/Week1/BorestickData.csv)
+[Click here to download the CSV file](BorestickData.csv)
 ### What we are doing:

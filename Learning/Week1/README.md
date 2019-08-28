@@ -5,10 +5,14 @@ FME is a software created by Safe Software, a company based out of Canada. FME i
 
 [Click here to download FME](https://www.safe.com/support/support-resources/fme-downloads/)
 
+Q/A
+1. Which version do you recommend?
 I will be working with the FME 2019 version but if you already have 2018 installed, you will be fine.
 
-Q/A
-1. 
+2. Do I need a windows device to use FME?
+Nope! FME works on Windows, Linux, and Mac operating systems.
+
+3. 
 
 ### Data:
 \ We will be using an CSV file to start us off 

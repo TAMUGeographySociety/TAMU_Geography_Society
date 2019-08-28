@@ -13,7 +13,7 @@ Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit compute
 
 **It is IMPORTANT to have ArcGIS (ArcMap or ArcPro) installed on your computer before you install FME**
 
-Once you get to the licence assistance, you will want to pick up a floating licene. I will provide this floating licence during our first meeting, so if you've made it this far,then that's all you need to do before I start teaching.
+Once you get to the licence assistance, you will want to pick up a floating license. I will provide this floating license during our first meeting, so if you've made it this far, then that's all you need to do before I start teaching.
 
 ---
 
@@ -32,7 +32,7 @@ We will be using an CSV file to start us off.
 
 [Click here to download the CSV file](github.com/TAMUGeographySociety/TAMU_Geography_Society/blob/master/Learning/Week1/BorestickData.csv)
 
-Hit Ctr+S on the site and save it to your computer, or I will show a way to scrape it directly from the internet.
+Hit Ctrl+S on the page and save it to your computer ... or I will show a way to scrape it directly from the internet during the lesson.
 
 ## What we are doing:
 During this first course I will be teaching the basics of FME and how to use it. I will be using an example of something I did this summer at my time in the oil and gas industry that is simple enough for beginner level understanding of the program. Those that are advanced in FME may still benifit from coming as they will get experience with oil and gas and FME processes.

@@ -5,7 +5,7 @@ FME is a software created by Safe Software, a company based out of Canada. FME i
 
 **-- [Click here to download FME](https://www.safe.com/support/support-resources/fme-downloads/) --**
 
-Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit computers, 32 bit for 32 bit computers. 
+Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit computers, 32 bit for 32 bit computers.
 
 [How to tell your computer's bit type](https://lmgtfy.com/?q=how+to+tell+if+your+pc+is+64+or+32+bit)
 
@@ -28,13 +28,13 @@ Q/A
     * Email us at thetamugeographysoceity@gmail.com
 
 ## Data:
-We will be using an CSV file to start us off.
+We will be using a CSV file to start us off that contains some wellbore data.
 
 [Click here to download the CSV file](https://raw.githubusercontent.com/TAMUGeographySociety/TAMU_Geography_Society/master/Learning/Week1/BorestickData.csv)
 
 Hit Ctrl+S on the page and save it to your computer ... or I will show a way to scrape it directly from the internet during the lesson.
 
 ## What we are doing:
-During this first course I will be teaching the basics of FME and how to use it. I will be using an example of something I did this summer at my time in the oil and gas industry that is simple enough for beginner level understanding of the program. Those that are advanced in FME may still benifit from coming as they will get experience with oil and gas and FME processes.
+During this first course I will be teaching the basics of FME and how to use it. I will be using an example of something I did this summer at my time in the oil and gas industry that is simple enough for a beginner level understanding of the program. Those that are advanced in FME may still benifit from coming as they will get experience with oil and gas and FME processes.
 
 If you have any questions about content, location, time, or other ... email me at **thetamugeographysociety@gmail.com**

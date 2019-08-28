@@ -7,13 +7,15 @@ FME is a software created by Safe Software, a company based out of Canada. FME i
 
 Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit computers, 32 bit for 32 bit computers. 
 
----
-
 [How to tell your computer's bit type](https://lmgtfy.com/?q=how+to+tell+if+your+pc+is+64+or+32+bit)
+
+---
 
 **It is IMPORTANT to have ArcGIS (ArcMap or ArcPro) installed on your computer before you install FME**
 
 Once you get to the licence assistance, you will want to pick up a floating licene. I will provide this floating licence during our first meeting, so if you've made it this far,then that's all you need to do before I start teaching.
+
+---
 
 Q/A
 1. Which version do you recommend?

@@ -30,7 +30,7 @@ Q/A
 ## Data:
 We will be using an CSV file to start us off.
 
-[Click here to download the CSV file](github.com/TAMUGeographySociety/TAMU_Geography_Society/blob/master/Learning/Week1/BorestickData.csv)
+[Click here to download the CSV file](https://raw.githubusercontent.com/TAMUGeographySociety/TAMU_Geography_Society/master/Learning/Week1/BorestickData.csv)
 
 Hit Ctrl+S on the page and save it to your computer ... or I will show a way to scrape it directly from the internet during the lesson.
 

@@ -7,9 +7,9 @@ FME is a software created by Safe Software, a company based out of Canada. FME i
 
 Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit computers, 32 bit for 32 bit computers. 
 
+---
+
 [How to tell your computer's bit type](https://lmgtfy.com/?q=how+to+tell+if+your+pc+is+64+or+32+bit)
-
-
 
 **It is HIGHLY recommended to have ArcGIS (ArcMap or ArcPro) installed on your computer before you install FME**
 
@@ -24,7 +24,7 @@ Q/A
     * Email us at thetamugeographysoceity@gmail.com
 
 ### Data:
-We will be using an CSV file to start us off 
+We will be using an CSV file to start us off.
 
-Click here to download the recommendeds file type
+[Click here to download the CSV file]()
 ### What we are doing:

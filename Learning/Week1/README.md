@@ -7,10 +7,10 @@ FME is a software created by Safe Software, a company based out of Canada. FME i
 
 Q/A
 1. Which version do you recommend?
-I will be working with the FME 2019 version but if you already have 2018 installed, you will be fine.
+    * I will be working with the FME 2019 version but if you already have 2018 installed, you will be fine.
 
 2. Do I need a windows device to use FME?
-Nope! FME works on Windows, Linux, and Mac operating systems.
+    * Nope! FME works on Windows, Linux, and Mac operating systems.
 
 3. 
 

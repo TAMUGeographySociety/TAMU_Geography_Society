@@ -3,7 +3,7 @@
 ### Program: Feature Manipulation Engine (FME)
 FME is a software created by Safe Software, a company based out of Canada. FME is a data integration platform with the best support for spatial data worldwide. With FME you can automate your data integration workflows and distribute your data to those who need it so you can spend more time using your data, and less time fighting it.
 
-[Click here to download FME](https://www.safe.com/support/support-resources/fme-downloads/)
+**-- [Click here to download FME](https://www.safe.com/support/support-resources/fme-downloads/) --**
 
 Make sure you are only installing FME Desktop 2019.1 - 64 bit for 64 bit computers, 32 bit for 32 bit computers. 
 

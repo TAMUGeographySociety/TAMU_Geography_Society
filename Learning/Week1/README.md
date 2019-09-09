@@ -61,4 +61,27 @@ If you have any questions about content, location, time, or other ... email me a
    - FME is a program that reads a plethora of data types. You can read all these data types (CSV, SHP, GDB, DWG ...) into your workspace and FME will put the data into a common-data type that works within the FME atmosphere.
    - To create a reader, click the **Reader Button**. This is on your taskbar and the top of the screen and it looks like a cylinder with an arrow pointing to the right.
 4. The Reader:
-   - We will be reading the CSV data that we downloaded at 
+   - The window that just popped up is the Reader, it contains a Format, and a Dataset, and a Coord. System.
+   - Format is the type of file you are reading in (CSV, SHP, DWG, OBJ ...)
+   - The Dataset is the location of that file type you want to add to your workbench
+   - Lets go ahead and fill out the information requested:
+   - Format should be a **CSV (Comma Seperated Value)** - You can either type this in, or hit the dropdown arrow to the left and search for it.
+   - Dataset should be that CSV we downloaded (Hit the tripple dot and find where-ever you saved that CSV at. If you didn't download that CSV, check part 0)
+5. Once you've filled in your Format and Dataset information, hit OK (we will get to Coord. System later) ...
+   - What you see now is a yellow box that says CSV 
+6. Lets Run It!
+   - But before we run it, lets talk about feature caching ... Feature Cacheing is a powerful tool in FME. It allows for a user to run a program to a point, and the results will be cached into your computer (APPDATA/TEMP folder by default I think). Once you close FME, this ran data will disapear. The power of this tool is not having to write out a million _test_ files (such as Model Builder and Python). Feature Caching does slow down your process though, so be aware if you are using a lot of data it might be wise to turn it off.
+   - Lets turn on feature cashing! In the taskbar ... Run -> Enable Feature Cashing
+   - Lets now run our workbench! (You can do this by hitting the Green Run Arrow, or pressing F5 if using a PC ... IDK what it is for Macs)
+   - A translation log popped up at our bottom. This will be a very important tool later for debugging, but we will talk about it later.
+7. Let talk about the Feature Inspector.
+   - FME Workbench is the "running" space, but we need to view this data that we are working with. This viewing application is called the FME Inspector ... where we inspect our data (duh ...)
+   - Lets inspect that CSV that we just read in! Click on the CSV and hit the "View Data Source" It looks like a magnifying glass and a cylinder
+   - This should pop up the FME Data Inspector - 2019.X window. We have now got a table of data we can work with. Yay!!!
+8. Lets go back to our workbench and talk about **Transformers**
+   - We've got a table of data now. Lets do something with it. Lets talk about Transformers!
+   - We want to _transform_ or change our data. We will do this buy adding a transformer.
+   - Our first Transformer to add is an AttributeManager
+   - To add a transformer just start typing!
+   - Type in the word Attribute and the transformer _Attribute Manager_ should pop up. Click on it!
+ 

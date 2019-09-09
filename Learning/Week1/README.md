@@ -105,6 +105,12 @@ If you have any questions about content, location, time, or other ... email me a
    - Add a VertexCreator transformer
    - Our X is W (ft)
    - Our Y is N (ft)
-   - Our Z is True Vertical Depth (ft)
+   - Our Z is True Vertical Depth (ft) _Make sure you put it as a negitive value_
    - Run your workspace!
    - Lets Inspect your VertexCreator (Green box with Magnifying glass)
+
+12. Add a LineBuilder Transfomer
+   - This will make a line of your data
+13. You've done it! You've made a thing in FME! I will be continuing on from here in the Workshop about Writing.
+
+#### If you have any questions, let Liam know by emailing him at liamlyle@tamu.edu

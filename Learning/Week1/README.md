@@ -92,7 +92,9 @@ If you have any questions about content, location, time, or other ... email me a
    - Lets do a little bit of data cleaning so we can work with only pertinent data
    - Lets change that "W" (Westing) to the word "E" (Easting) and make it look like N (ft). All you gotta do is type in the text: E (ft) into the Output Attribute column! Boom you've renamed an attribute!
    - We only want to keep these attributes, see if you can figure out how to remove other attributes (hint, look in Actions):
+
 | Keep these attributes |
+| --------------------- |
 | Measurement Index |
 | Inclination (deg) |
 | True Vertical Depth (ft) |

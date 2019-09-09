@@ -101,4 +101,10 @@ If you have any questions about content, location, time, or other ... email me a
 | N (ft) |
 | W (ft) |
 
-   
+11. Lets spatialize this data!
+   - Add a VertexCreator transformer
+   - Our X is W (ft)
+   - Our Y is N (ft)
+   - Our Z is True Vertical Depth (ft)
+   - Run your workspace!
+   - Lets Inspect your VertexCreator (Green box with Magnifying glass)

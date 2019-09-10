@@ -111,6 +111,9 @@ If you have any questions about content, location, time, or other ... email me a
 
 12. Add a LineBuilder Transfomer
    - This will make a line of your data
-13. You've done it! You've made a thing in FME! I will be continuing on from here in the Workshop about Writing.
+13 ... **TBD** ...
 
+#### Cords for Offset:
+X: 3553465.1633
+Y: 10210975.9487
 #### If you have any questions, let Liam know by emailing him at liamlyle@tamu.edu

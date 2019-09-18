@@ -1,8 +1,8 @@
-# Introduction Pt. 2
+# FME Introduction Course Pt. 2
 
 #### Haven't installed FME yet? [Go look here.](../../Learning/Week1)
 
-### So what are we doing this week?
+## So what are we doing this week?
 We are going to be re-introducing FME and practicing a little more on some of the basic stuff, but this time we will be reading a dynamic dataset using wildcards "*".
 >
 A wildcard is a reading special character that basically reads all files in a given folder. We will be using that to read our 2 Lidar Datasets.

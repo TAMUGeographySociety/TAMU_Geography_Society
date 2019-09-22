@@ -14,7 +14,7 @@ The goal of this lab will be to create 3D representations of College Station Bui
 ## Data
 In this situation we will be working with .shp and LIDAR data. You can find the 2 datasets here:
 >
-[**LIDAR Dataset**](https://s3.amazonaws.com/data.tnris.org/b6ea8e3a-c8b7-4d97-b4d1-4eb8172eb87d/resources/usgs17-70cm-brazos-freestone-robertson_3096301_lpc.zip) - This is a 1.1GB file. It might take a while to download without good internet speeds.
+[**LIDAR Dataset**](https://s3.amazonaws.com/data.tnris.org/48ce46cb-7aba-406c-8330-f6c5b43389c1/resources/stratmap15-50cm-brazos_3096301_lpc.zip) - This is a 1GB file. It might take a while to download without good internet speeds.
 >
 [**Building Shapefiles**](https://opendata.arcgis.com/datasets/894bf5fc69df4257bdae79912871198a_0.zip?session=1020265369.1513734707) - 5.94 MB (not big)
 

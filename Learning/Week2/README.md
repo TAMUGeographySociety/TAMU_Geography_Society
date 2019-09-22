@@ -7,7 +7,7 @@ We are going to be re-introducing FME and practicing a little more on some of th
 >
 We will also be taking about reading based off of a "wildcard". A wildcard is a reading function you can use to read any type of file, but you don't know exactly the file format. In FME we use the "*" symbol to call for a wildcard. 
 >
-For example: "C:/data/Structures.shp" will read in only 1 shapefile whereas "C:/data/*.shp" will read in all files that of of type ".shp".  We will use this when reading in our LIDAR data. 
+For example: "C:/data/Structures.shp" will read in only 1 shapefile whereas "C:/data/*.shp" will read in all files that of of type ".shp".  We will use this when reading in our LIDAR data ("C:/data/*.LAZ")
 >
 The goal of this lab will be to create 3D representations of College Station Buildings from LIDAR and a CS Structures .shp file. 
 

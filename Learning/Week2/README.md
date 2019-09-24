@@ -5,9 +5,9 @@
 ## So what are we doing this week?
 We are going to be re-introducing FME and practicing a little more on some of the basic stuff. We are going to continue in the 3D realm, so put your data-visualization pants on as we dive head-first into some 3D math.
 >
-We will also be taking about reading based off of a "wildcard". A wildcard is a reading function you can use to read any type of file, but you don't know exactly the file format. In FME we use the "*" symbol to call for a wildcard. 
+We will also be taking about reading based off of a "wildcard". A wildcard is a reading function you can use to read any type of file but you don't know exactly the file format. In FME we use the "*" symbol to call for a wildcard. 
 >
-For example: "C:/data/Structures.shp" will read in only 1 shapefile whereas "C:/data/*.shp" will read in all files that of of type ".shp".  We will use this when reading in our LIDAR data ("C:/data/*.LAZ")
+For example: "C:/data/Structures.shp" will read in only 1 shapefile whereas "C:/data/*.shp" will read in all files that of of type ".shp".  We will use this when reading in our LIDAR data ("C:/data/\*.LAZ")
 >
 The goal of this lab will be to create 3D representations of College Station Buildings from LIDAR and a CS Structures .shp file. 
 

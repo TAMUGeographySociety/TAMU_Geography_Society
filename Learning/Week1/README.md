@@ -118,8 +118,8 @@ X: 3553465.1633
 >
 Y: 10210975.9487
 
-14. Add in a Test Filter
-
+14. **TBD** - Let liam know if you want to continue on with this walkthrough
+>
+>
+>
 #### If you have any questions, let Liam know by emailing him at liamlyle@tamu.edu
-
-14. 

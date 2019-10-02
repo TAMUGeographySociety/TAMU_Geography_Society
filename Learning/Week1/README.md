@@ -111,10 +111,15 @@ If you have any questions about content, location, time, or other ... email me a
 
 12. Add a LineBuilder Transfomer
    - This will make a line of your data
-13 ... **TBD** ...
-
+13. Add in an Offsetter:
+   - We will be using this to set this well in a location. Use the two coordniates bellow for your offsets:
 #### Cords for Offset:
 X: 3553465.1633
 >
 Y: 10210975.9487
+
+14. Add in a Test Filter
+
 #### If you have any questions, let Liam know by emailing him at liamlyle@tamu.edu
+
+14. 

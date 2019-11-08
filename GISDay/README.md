@@ -5,7 +5,7 @@
 
 Click on the links to download/get a free trial of application. More information can be found on the GIS Day website [here](https://gisday.tamu.edu/sessions/#/details/d3b3c7d3-7171-47a3-87b3-9ffb32405f37)
 
-This workshop will require heavy computation and graphical work, so make sure to have a semi-beefy computer if you're going to follow along. My laptop is an Intel i7, 2016 AMD Graphics Card, 16 GB RAM 
+This workshop will require heavy computation and graphical work, so make sure to have a semi-beefy computer if you're going to follow along. My laptop specs: Intel i7, AMD Radeon (TM) R7 M460 Graphics Card, 16 GB RAM 
 ***
 
 <p align="center"> <a href="https://store.unity.com/download-nuo">Unity - 2018/2019</a> </p>

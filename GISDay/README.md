@@ -4,6 +4,8 @@
 ## Softwares:
 
 Click on the links to download/get a free trial of application. More information can be found on the GIS Day website [here](https://gisday.tamu.edu/sessions/#/details/d3b3c7d3-7171-47a3-87b3-9ffb32405f37)
+
+This workshop will require heavy computation and graphical work, so make sure to have a semi-beefy computer if you're going to follow along. My laptop is an Intel i7, 2016 AMD Graphics Card, 16 GB RAM 
 ***
 
 <p align="center"> <a href="https://store.unity.com/download-nuo">Unity - 2018/2019</a> </p>
@@ -17,4 +19,8 @@ Click on the links to download/get a free trial of application. More information
 
 
 ## Data:
+#### Structures Data: https://data-cstx.opendata.arcgis.com/datasets/structures/data
 
+#### LIDAR Data: https://s3.amazonaws.com/data.tnris.org/b6ea8e3a-c8b7-4d97-b4d1-4eb8172eb87d/resources/usgs17-70cm-brazos-freestone-robertson_3096301_lpc.zip
+1 Gig file ^ Very Big Data!!!
+#### Unity Assets:

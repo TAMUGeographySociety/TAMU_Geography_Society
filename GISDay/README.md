@@ -24,5 +24,5 @@ This workshop will require heavy computation and graphical work, so make sure to
 #### LIDAR Data (1GB File): https://s3.amazonaws.com/data.tnris.org/b6ea8e3a-c8b7-4d97-b4d1-4eb8172eb87d/resources/usgs17-70cm-brazos-freestone-robertson_3096301_lpc.zip
 
 #### Unity Assets:
-- https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870
-- https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752 - Do not purchase for this workshop. This is only for your reference
+- Character: https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870
+- Infinity Terrain Tool: https://assetstore.unity.com/packages/tools/terrain/real-world-terrain-8752 - Do not purchase for this workshop. This is only for your reference if you'd like to make an investment.

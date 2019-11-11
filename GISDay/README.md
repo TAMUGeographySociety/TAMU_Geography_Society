@@ -55,6 +55,5 @@ This workshop will require heavy computation and graphical work, so make sure to
 13. Add in a Terrain asset for your character to walk on (https://docs.unity3d.com/Manual/terrain-UsingTerrains.html)
 14. Go to Unity Store, and search for the Character Asset (https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870).
 15. Import this character in, and place it on your scene. Add a camera to it. Adjust.
-16. Play game
->
+16. **Play game**
 17. You can now create your own models and add them in (LIDARs, TIN files, etc).

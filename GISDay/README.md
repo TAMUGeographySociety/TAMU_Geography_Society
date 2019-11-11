@@ -42,10 +42,19 @@ This workshop will require heavy computation and graphical work, so make sure to
 >
 ![FME_Workflow]()
 
-6. Create writer to an FBX file.
+6. Create writer to an shp file.
 7. Make connections like the ones below:
 >
 ![FME_Writer]()
 
 8. **Open Unity**
 9 Create new Project (make sure it is 3D)
+10. Make a new folder in the "Assets" folder, naming it SKP (or whatever you'd like).
+11. From a file explorer, move (drag) your 2 made skp files you've created from your FME job to Unity.
+12. Click and drag them to your "Scene"
+13. Add in a Terrain asset for your character to walk on (https://docs.unity3d.com/Manual/terrain-UsingTerrains.html)
+14. Go to Unity Store, and search for the Character Asset (https://assetstore.unity.com/packages/3d/characters/humanoids/character-pack-free-sample-79870).
+15. Import this character in, and place it on your scene. Add a camera to it. Adjust.
+16. Play game
+>
+17. You can now create your own models and add them in (LIDARs, TIN files, etc).
